@@ -10,9 +10,7 @@ Tech Stack Used:
 * Project Structure: Modular Java packages (model and gui)
 * Logging System: In-memory admin activity log with timestamps (DateTimeFormatter)
 * Dialog Components: JOptionPane, JScrollPane, JTextArea, JButton, etc.
-* Build & Execution: javac, java (via terminal or IDE)
-* Version Control: Git and GitHub
-* Assets: Screenshots stored in /assets/screenshots
+
 
 ---
 
